@@ -1,0 +1,10 @@
+Official docs on Rails file uploading 
+http://guides.rubyonrails.org/form_helpers.html#uploading-files
+
+Dropzone js official docs
+http://www.dropzonejs.com/
+
+Blog post about uploading the easy way in Rails using Paperclip
+http://www.munocreative.com/nerd-notes/justpayme
+
+Lol I think that I want to try and not use a gem for this tutorial... I don't know. 
